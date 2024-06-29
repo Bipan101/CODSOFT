@@ -53,6 +53,14 @@ form input.operator{
 form input.operator1{
     background-color: red;
 }
+#copyrightTxt{
+    position: absolute;
+    bottom: 10px;
+    color: white;
+    font-size: 15px;
+
+}
+
 
 /* For Mobile View */
 
